@@ -1,4 +1,6 @@
 # PositivePsychologyHarvard
+## Part 1 - Intro
+* [Slides](http://isites.harvard.edu/fs/docs/icb.topic253936.files/1504-01-Intro.ppt)
 ### Lecture 1 - Introduction
 ##### Lecture Video
 * [网易公开课](http://open.163.com/movie/2006/1/1/9/M6HV755O6_M6HV8DF19.html)
